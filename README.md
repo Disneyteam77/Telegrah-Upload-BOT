@@ -12,7 +12,7 @@ Support Group🤖🤖
 - [Disney Chat](https://t.me/disneyteamchat)
 ---
 # Deploy To Heroku
-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/disneyteam76/Telegrah-Upload-BOT/tree/main)
+- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/disneyteam77/Telegrah-Upload-BOT/tree/main)
 ---
 
 # Credits
